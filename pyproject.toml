@@ -1,0 +1,47 @@
+[project]
+name = "composition-evidence"
+version = "0.1.0"
+description = "CompositionEvidence: controlled geometric evidence for cinematic composition reasoning with frozen VLMs"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "opencv-python-headless",
+    "scikit-image",
+    "scipy",
+    "pandas",
+    "pyarrow",
+    "pyyaml",
+    "jsonlines",
+    "rich",
+    "pillow",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+# Optional dependencies for local model inference and feature extraction.
+server = [
+    "torch",
+    # Pinned to the 4.x line for Qwen2.5-VL and ShotVL compatibility.
+    "transformers>=4.49,<5",
+    "accelerate",
+    "qwen-vl-utils",
+    "huggingface_hub",
+    "timm",              # InternVL vision tower dependency
+    "einops",
+]
+# Official provider SDKs for the five commercial-model evaluations.
+api = [
+    "openai",
+    "google-genai",
+    "anthropic",
+]
+# vLLM is optional; the default backend uses Transformers.
+vllm = ["vllm"]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.uv]
+# keep uv metadata local; caches are redirected via scripts/env.sh

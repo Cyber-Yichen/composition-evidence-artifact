@@ -1,0 +1,78 @@
+# Prompt and evidence templates. One template set is used across all models.
+#
+# A judgment phrase is banned if its word root overlaps the SC answer-label set
+# {Center, Symmetrical, Balanced,
+# Left heavy, Right heavy, Short side}, not case-by-case wording. Consequences:
+#   - "center-aligned" is gone; "frame center" -> "frame midpoint", subject center
+#     -> "centroid" (no center/centre root anywhere in evidence text)
+#   - symmetry-root wording is gone; the F4 line is "Mirror similarity: ... SSIM ..."
+#   - balance/heavy roots were already excluded; kept that way
+#   - "thirds-aligned" stays: "rule of thirds" is NOT in the label set
+# Enforced by lexicon_guard over banned_lexicon (root substrings) below.
+# Two render styles for ablation: "neutral" (numbers + spatial-neutral qualifiers)
+# and "numeric" (numbers only, no qualifier phrases at all).
+
+# Aligned with the official ShotBench evaluation format in
+# Vchitect/ShotBench evaluation/shotvl/evaluate.py:
+#   "Question: {q}\nOptions:\nA. ...\nPlease select the most likely answer..."
+answer_instruction: "Please select the most likely answer from the options above."
+
+cot_instruction: >-
+  Think step by step about the visual evidence in the image, then select the most
+  likely answer from the options above, giving it as a single option letter on the
+  last line.
+
+evidence:
+  header: "<composition_evidence>"
+  footer: "</composition_evidence>"
+  note: >-
+    Note: the evidence above is computed by auxiliary vision tools and may contain
+    errors; use it as reference alongside the image. Answer with the option letter
+    only.
+
+  subject: "Subject: one dominant subject ({phrase}), centroid at ({x:.2f}, {y:.2f}), occupying {area_pct}% of the frame{align_part}."
+  subject_none: "Subject: no single dominant subject detected."
+  align_thirds: "; {d_thirds:.2f} from the nearest thirds intersection (thirds-aligned), {d_center:.2f} from the frame midpoint"
+  align_none: "; {d_center:.2f} from the frame midpoint, {d_thirds:.2f} from the nearest thirds intersection"
+
+  edge: "Edges: distance from subject box to frame edges - left {left:.2f}, right {right:.2f}, top {top:.2f}, bottom {bottom:.2f}{edge_flag}."
+  edge_flag_near: " (subject very close to the {which} edge)"
+  edge_flag_span_w: " (subject spans the full frame width)"
+  edge_flag_span_h: " (subject spans the full frame height)"
+
+  balance: "Visual mass: left/right = {mass_left:.2f}/{mass_right:.2f} (difference {absdiff:.2f}{bal_pct}{skew_part})."
+  skew_left: ", mass concentrated in the left half"
+  skew_right: ", mass concentrated in the right half"
+  skew_none: ""
+
+  # Binary "similarity is high" claims are omitted because calibration showed FPR 0.58 at
+  # any threshold); numbers now carry train-distribution percentile context instead
+  symmetry: "Mirror similarity: left-right SSIM {sym_h:.2f}{sym_h_pct}, top-bottom SSIM {sym_v:.2f}{sym_v_pct}."
+  pct_part: " ({pct:.0f}th percentile of film frames)"
+
+  depth: "Depth: subject in {subject_layer}; foreground {fg_pct:.0f}% / mid {mid_pct:.0f}% / background {bg_pct:.0f}% of pixels."
+  depth_no_subject: "Depth: foreground {fg_pct:.0f}% / mid {mid_pct:.0f}% / background {bg_pct:.0f}% of pixels."
+
+  lines: "Lines: {n_leading} of the {n_top} longest line segments pass through the subject region when extended{angle_part}{horizon_part}."
+  lines_no_subject: "Lines: {n_top} long line segments detected{angle_part}{horizon_part}."
+  angle_part: ", dominant angle {angle:.0f} deg"
+  horizon_part: "; longest near-horizontal line at y={horizon_y:.2f}"
+
+  headroom: "Head space: top of face at y={face_top:.2f} (headroom {headroom_pct:.0f}% of frame height)."
+
+# Hard guard: rendered evidence must not contain any of these substrings
+# (case-insensitive). Word roots catch morphological variants
+# are caught wholesale ("symmetr" bans symmetry/symmetric/symmetrical/asymmetric).
+# "centroid" does not contain "center"/"centre" — safe by construction.
+banned_lexicon:
+  - "rule of thirds"
+  - "rule-of-thirds"
+  - "golden ratio"
+  - "center"
+  - "centre"
+  - "central"
+  - "symmetr"
+  - "balanc"
+  - "heavy"
+  - "short side"
+  - "short-side"

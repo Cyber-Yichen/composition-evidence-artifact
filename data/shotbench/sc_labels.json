@@ -1,0 +1,22 @@
+[
+  "Balanced",
+  "Balanced, Center",
+  "Balanced, Left heavy",
+  "Balanced, Right heavy",
+  "Balanced, Short side",
+  "Balanced, Symmetrical",
+  "Center",
+  "Center, Left heavy",
+  "Center, Right heavy",
+  "Center, Short side",
+  "Center, Symmetrical",
+  "Left heavy",
+  "Left heavy, Right heavy",
+  "Left heavy, Short side",
+  "Left heavy, Symmetrical",
+  "Right heavy",
+  "Right heavy, Short side",
+  "Right heavy, Symmetrical",
+  "Short side",
+  "Symmetrical"
+]

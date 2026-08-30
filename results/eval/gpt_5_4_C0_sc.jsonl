@@ -1,0 +1,479 @@
+{"uid": "shotbench-2630", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2631", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2632", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2633", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2634", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2635", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2636", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2637", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2638", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2639", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2640", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2641", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2642", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2643", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2644", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2645", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2646", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2647", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2648", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2649", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2650", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2651", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2652", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2653", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2654", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2655", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2656", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2657", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2658", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced, Center", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2659", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2660", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2661", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2662", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2663", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2664", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2665", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2666", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2667", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2668", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2669", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2670", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2671", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2672", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2673", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2674", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2675", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2676", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2677", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2678", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2679", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced, Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2680", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2681", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2682", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2683", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2684", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2685", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2686", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2687", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2688", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Short side", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2689", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced, Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2690", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2691", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2692", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2693", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2694", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2695", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2696", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2697", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2698", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2699", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2700", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2701", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2702", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2703", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2704", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2705", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2706", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2707", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2708", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2709", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2710", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2711", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2712", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2713", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2714", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced, Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2715", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2716", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2717", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2718", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2719", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2720", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2721", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2722", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2723", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2724", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2725", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2726", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2727", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2728", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2729", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2730", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2731", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2732", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced, Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2733", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2734", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2735", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2736", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2737", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2738", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2739", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2740", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2741", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2742", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2743", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2744", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced, Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2745", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2746", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2747", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy, Short side", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2748", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2749", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2750", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2751", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center, Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2752", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2753", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2754", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2755", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center, Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2756", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy, Short side", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2757", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2758", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2759", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2760", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2761", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2762", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2763", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2764", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2765", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2766", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2767", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2768", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2769", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2770", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2771", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2772", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2773", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2774", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2775", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2776", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2777", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2778", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2779", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2780", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2781", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2782", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2783", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2784", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2785", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2786", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2787", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2788", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2789", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2790", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy, Short side", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2791", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2792", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2793", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2794", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2795", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2796", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center, Short side", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2797", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced, Short side", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2798", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2799", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2800", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2801", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2802", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2803", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2804", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2805", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2806", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2807", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2808", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2809", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2810", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2811", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2812", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2813", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2814", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2815", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2816", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2817", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2818", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2819", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2820", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2821", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2822", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2823", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2824", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2825", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2826", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2827", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2828", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2829", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2830", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2831", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2832", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced, Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2833", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2834", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2835", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2836", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2837", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2838", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2839", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2840", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2841", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2842", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2843", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2844", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2845", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center, Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2846", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2847", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2848", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2849", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2850", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2851", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2852", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2853", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2854", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2855", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced, Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2856", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2857", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2858", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2859", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2860", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2861", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2862", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2863", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2864", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2865", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2866", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2867", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2868", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2869", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced, Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2870", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2871", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2872", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2873", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2874", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2875", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2876", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2877", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced, Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2878", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2879", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2880", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2881", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2882", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2883", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2884", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2885", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2886", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2887", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2888", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2889", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2890", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2891", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced, Center\n\nThe visual weight is spread across the frame, with major elements on both left and right, and the main action grouped around the middle rather than feeling symmetrical.", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2892", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2893", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2894", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2895", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2896", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2897", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2898", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2899", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2900", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2901", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2902", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2903", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2904", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2905", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2906", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2907", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2908", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2909", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2910", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2911", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2912", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2913", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2914", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2915", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2916", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2917", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2918", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2919", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2920", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2921", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2922", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2923", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2924", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2925", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2926", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2927", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2928", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2929", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2930", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2931", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2932", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2933", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2934", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2935", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2936", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy, Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2937", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2938", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2939", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2940", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2941", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2942", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2943", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2944", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2945", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2946", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2947", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2948", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy, Short side", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2949", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2950", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2951", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2952", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2953", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2954", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2955", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2956", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2957", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2958", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2959", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2960", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2961", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2962", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2963", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2964", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Short side", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2965", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2966", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2967", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2968", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2969", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2970", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2971", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2972", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2973", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2974", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2975", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2976", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2977", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2978", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2979", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2980", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2981", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2982", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2983", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2984", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-2985", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Short side", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2986", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2987", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-2988", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Balanced", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2989", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2990", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-2991", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-2992", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-2993", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2994", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2995", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2996", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-2997", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-2998", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Short side", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-2999", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3000", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3001", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3002", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3003", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3004", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3005", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3006", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3007", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3008", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3009", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3010", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3011", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3012", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3013", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3014", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3015", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3016", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3017", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3018", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3019", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Left heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3020", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3021", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3022", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3023", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3024", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3025", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3026", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3027", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3028", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3029", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3030", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3031", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3032", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3033", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3034", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3035", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3036", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3037", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3038", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3039", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3040", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3041", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3042", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3043", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3044", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3045", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3046", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3047", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Symmetrical", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3048", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3049", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3050", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3051", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3052", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3053", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3054", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3055", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3056", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Symmetrical", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3057", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3058", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3059", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3060", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Symmetrical", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3061", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3062", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Right heavy", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3063", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Symmetrical", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3064", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3065", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3066", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3067", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3068", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Short side", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}
+{"uid": "shotbench-3069", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3070", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3071", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3072", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3073", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3074", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Balanced", "parsed": "C", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3075", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3076", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3077", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3078", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3079", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3080", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3081", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3082", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3083", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3084", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3085", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3086", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Left heavy", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3087", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3088", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3089", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Left heavy", "parsed": "B", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3090", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Center", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3091", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Balanced", "parsed": "A", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3092", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Short side", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3093", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3094", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "A", "correct": false}
+{"uid": "shotbench-3095", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Right heavy", "parsed": "D", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3096", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Balanced", "parsed": "D", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3097", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Short side", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3098", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3099", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "D. Short side", "parsed": "D", "parse_method": "prefix", "answer": "D", "correct": true}
+{"uid": "shotbench-3100", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3101", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Left heavy", "parsed": "A", "parse_method": "prefix", "answer": "C", "correct": false}
+{"uid": "shotbench-3102", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Right heavy", "parsed": "B", "parse_method": "prefix", "answer": "D", "correct": false}
+{"uid": "shotbench-3103", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3104", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3105", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Center", "parsed": "C", "parse_method": "prefix", "answer": "C", "correct": true}
+{"uid": "shotbench-3106", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "B. Center", "parsed": "B", "parse_method": "prefix", "answer": "B", "correct": true}
+{"uid": "shotbench-3107", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "C. Right heavy", "parsed": "C", "parse_method": "prefix", "answer": "B", "correct": false}
+{"uid": "shotbench-3108", "model": "gpt_5_4", "condition": "C0", "category": "composition", "response": "A. Center", "parsed": "A", "parse_method": "prefix", "answer": "A", "correct": true}

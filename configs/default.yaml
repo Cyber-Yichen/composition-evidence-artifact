@@ -1,0 +1,81 @@
+# CompositionEvidence master config.
+# Final gate values are fitted only on ShotQA training data. The calibration
+# mechanism was introduced after first-pass benchmark diagnostics; see README.
+
+seed: 42
+
+paths:
+  tf_logs: logs/tf
+  data: data
+  shotbench: data/shotbench
+  refineshot: data/refineshot
+  cinetechbench: data/cinetechbench
+  shotqa: data/shotqa
+  cache: data/cache
+  results: results
+  reports: reports
+  figures: figures
+
+thresholds:
+  center_align: 0.08      # F2: d_center below this -> "center-aligned"
+  thirds_align: 0.08      # F2: d_thirds below this -> "thirds-aligned"
+  # F4/F5 are calibrated on ShotQA training data via Youden J. Rendering uses
+  # train-percentile context from configs/calibration.json instead of binary
+  # symmetry claims; skew qualifier gated by the calibrated balance_skew.
+  symmetry_strong: 0.262  # F4 flag (rule baseline + features); no longer rendered
+  balance_skew: 0.143     # F5: |balance| above this -> directional skew qualifier
+  edge_near: 0.05         # F9: min edge distance below this -> near-edge flag
+
+# Sensitivity grids (analysis only; main-table values are the ones above)
+threshold_grid:
+  center_thirds: [0.05, 0.08, 0.12]
+  symmetry: [0.6, 0.7, 0.8]
+
+subject_selection:
+  w_area: 0.4
+  w_center_prior: 0.3
+  w_confidence: 0.3
+  person_boost: 1.2
+  person_terms: [person, face, man, woman, human, people, boy, girl, child]
+  max_area: 0.9   # boxes covering >90% of the frame carry no positional info
+                  # (e.g. a building filling the shot) — not composition subjects
+
+extractors:
+  grounding_dino:
+    model_id: IDEA-Research/grounding-dino-base
+    prompts:
+      - "person . face ."
+      - "main subject . animal . vehicle . building ."
+    box_threshold: 0.30
+    text_threshold: 0.25
+  depth:
+    model_id: depth-anything/Depth-Anything-V2-Small-hf
+    larger_is_closer: true   # DA-V2 predicts relative inverse depth (disparity-like)
+  lines:
+    detector: lsd            # falls back to hough automatically if LSD unavailable
+    top_k: 10
+    horizon_angle_tol_deg: 10
+    min_horizon_len: 0.15    # in normalized coords (fraction of frame width-ish)
+  saliency:                  # pseudo-saliency = conf-weighted box mask + depth closeness
+    w_boxes: 0.5
+    w_closeness: 0.5
+
+features:
+  enabled: [F1, F2, F3, F4, F5, F6, F7, F8, F9]
+  leading_line_box_dilation: 1.2   # subject box scaled 1.2x around its center
+  symmetry_resize: 256             # long side used for SSIM computation
+
+video:
+  n_frames: 5          # 4 uniform + middle frame
+  feature_frame: middle
+
+evidence:
+  # C2 ablation default; scripts/run_final.py explicitly uses after_question.
+  position: before_question
+  lexicon_guard: true         # hard-fail if rendered evidence contains an answer-label term
+
+eval:
+  max_new_tokens: 64
+  max_new_tokens_cot: 512     # C1/C3 need room for the reasoning chain
+  temperature: 0.0            # greedy decoding everywhere
+  parse_fail_threshold: 0.02  # above this rate, revise the prompt rather than the parser
