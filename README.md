@@ -13,7 +13,7 @@ Composition Reasoning with Frozen Vision-Language Models**.
 
 | Path | What it is |
 |---|---|
-| `supplementary/supplementary_material.pdf` | Supplementary material (11 pages): before/after Q&A demos, a counterexample, the exact Channel-A text interface, feature and calibration definitions, Channel-B training details, per-class and corruption results, artifact map, reproducibility summary |
+| [Supplementary material (PDF)](supplementary/supplementary_material.pdf) | Supplementary material (11 pages): before/after Q&A demos, a counterexample, the exact Channel-A text interface, feature and calibration definitions, Channel-B training details, per-class and corruption results, artifact map, reproducibility summary |
 | `src/`, `scripts/`, `configs/` | Extraction, evidence construction, evaluation, and training code with the frozen thresholds |
 | `results/` | Per-example records for every condition reported in the paper, plus the validation-selected projector |
 | `tests/` | Unit tests (77) |
